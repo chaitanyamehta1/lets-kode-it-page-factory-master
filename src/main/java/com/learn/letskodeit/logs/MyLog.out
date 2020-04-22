@@ -1,0 +1,21 @@
+2020-04-18 23:04:760 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:867 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:747 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:607 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:176 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:918 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:21 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:609 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:922 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:366 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:985 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:302 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:996 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-18 23:04:787 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-19 00:04:453 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-19 00:04:414 INFO  HomePage :28 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (171763c905b5978f526d04c214001f56)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-19 00:04:04 INFO  LoginPage :50 - Getting login confirm message [[ChromeDriver: chrome on WINDOWS (171763c905b5978f526d04c214001f56)] -> xpath: //h1[@class='text-center']]
+2020-04-19 00:04:884 INFO  BrowserSelector :22 - Launching chrome browser
+2020-04-19 00:04:39 INFO  HomePage :28 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (bb22651a167f380bd9a0f9ef4c97d9dd)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-19 00:04:503 INFO  LoginPage :50 - Getting login confirm message [[ChromeDriver: chrome on WINDOWS (bb22651a167f380bd9a0f9ef4c97d9dd)] -> xpath: //h1[@class='text-center']]
+2020-04-22 17:04:806 INFO  BrowserSelector :24 - Launching chrome browser
